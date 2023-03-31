@@ -4,7 +4,7 @@
 📦Install
 
 ```sh
-npm install
+$ npm install
 ```
 
 
@@ -20,9 +20,9 @@ const port = process.env.PORT;
 🚀Start
 
 ```sh
-npm run dev
+$ npm run dev
     or
-pm2 start app.js
+$ pm2 start app.js
     or
-node app.js
+$ node app.js
 ```
