@@ -1,14 +1,14 @@
-## Upload Image in MongoDB
+##Upload Image in MongoDB
 
 
-# 📦 Install
+#📦Install
 
 ```sh
 npm install
 ```
 
 
-# 💻 Usage
+#💻Usage
 
 ```js
 // replace the value below with the Telegram token you receive from @BotFather
@@ -17,7 +17,7 @@ const port = process.env.PORT;
 ```
 
 
-# 🚀 Start
+#🚀Start
 
 ```sh
 npm run dev
