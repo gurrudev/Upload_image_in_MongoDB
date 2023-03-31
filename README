@@ -11,7 +11,7 @@ npm install
 # 💻Usage
  
 ```js
-// replace the value below with the Telegram token you receive from @BotFather
+// replace the value in your .env 
 const mongoURI = process.env.MONGO_URI;
 const port = process.env.PORT;
 ```
