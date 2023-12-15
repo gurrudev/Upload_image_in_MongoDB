@@ -1,6 +1,5 @@
 # Upload Image in MongoDB
 
-
 📦Install
 
 ```sh
